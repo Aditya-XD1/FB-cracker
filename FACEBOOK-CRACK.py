@@ -47,10 +47,10 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.DIPESH KARKI             |"
+    print WW+"  |            MOD BY: MR.ADIT XD.              |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : Technical Dipesh            |"
-    print Y+"  |             INSTAGRAM: karkidipesh09              |"
+    print WW+"  |        TEAM : WIBU INDO.                    |"
+    print Y+"  |             INSTAGRAM:.                      |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -60,7 +60,7 @@ def banner():
 
 banner()
 
-print wd+"         gunakan dengan bijak cok "
+print wd+"         TETEP COLI WALAU BADAN UDAH NYERI "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
