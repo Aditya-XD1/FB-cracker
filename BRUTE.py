@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.Dipesh_Karki
+# Mod by: MR.ADIT XD
 # team: Technical Dipesh
 
 
@@ -47,9 +47,9 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.Dipesh_Karki             |"
-    print GL+"  |       VISIT OUR CHANNEL TECHNICAL DIPESH       |"
-    print WW+"  |        TEAM : Technical Dipesh           |"
+    print WW+"  |            MOD BY: MR.ADIT XD.                |"
+    print GL+"  |                                                |"
+    print WW+"  |           TEAM : WIBU INDONESIA.                |"
     print Y+"  |             INSTAGRAM: karkidipesh09             |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        TECHNICAL DIPESH [ T.D  ]         |"
